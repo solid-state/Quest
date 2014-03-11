@@ -1,0 +1,64 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quest\Quest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quest\Quest\obj\Debug\Quest.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quest\Quest\obj\Debug\Quest.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quest\Quest\obj\Debug\Quest.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quest\Quest\bin\Debug\Quest.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quest\Quest\bin\Debug\Quest.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quest\Quest\obj\Debug\Quest.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quest\Quest\obj\Debug\Quest.pdb
+C:\Documents and Settings\user1\Desktop\My Projects\The Quest\Quest4\Quest\Quest\obj\Debug\Quest.exe
+C:\Documents and Settings\user1\Desktop\My Projects\The Quest\Quest4\Quest\Quest\obj\Debug\Quest.pdb
+C:\Documents and Settings\user1\Desktop\My Projects\The Quest\Quest4\Quest\Quest\bin\Debug\Quest.exe
+C:\Documents and Settings\user1\Desktop\My Projects\The Quest\Quest4\Quest\Quest\bin\Debug\Quest.pdb
+C:\Documents and Settings\user1\Desktop\My Projects\The Quest\Quest4\Quest\Quest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user1\Desktop\My Projects\The Quest\Quest4\Quest\Quest\obj\Debug\Quest.Form1.resources
+C:\Documents and Settings\user1\Desktop\My Projects\The Quest\Quest4\Quest\Quest\obj\Debug\Quest.Properties.Resources.resources
+C:\Documents and Settings\user1\Desktop\My Projects\The Quest\Quest4\Quest\Quest\obj\Debug\Quest.csproj.GenerateResource.Cache
+C:\Documents and Settings\user1\Desktop\HeadFirst Projects\The Quest\Quest4\Quest\Quest\obj\Debug\Quest.exe
+C:\Documents and Settings\user1\Desktop\HeadFirst Projects\The Quest\Quest4\Quest\Quest\obj\Debug\Quest.pdb
+C:\Documents and Settings\user1\Desktop\HeadFirst Projects\The Quest\Quest4\Quest\Quest\bin\Debug\Quest.exe
+C:\Documents and Settings\user1\Desktop\HeadFirst Projects\The Quest\Quest4\Quest\Quest\bin\Debug\Quest.pdb
+C:\Documents and Settings\user1\Desktop\HeadFirst Projects\The Quest\Quest4\Quest\Quest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user1\Desktop\HeadFirst Projects\The Quest\Quest4\Quest\Quest\obj\Debug\Quest.Form1.resources
+C:\Documents and Settings\user1\Desktop\HeadFirst Projects\The Quest\Quest4\Quest\Quest\obj\Debug\Quest.Properties.Resources.resources
+C:\Documents and Settings\user1\Desktop\HeadFirst Projects\The Quest\Quest4\Quest\Quest\obj\Debug\Quest.csproj.GenerateResource.Cache
+C:\Documents and Settings\user1\Desktop\HeadFirst Projects\The Quest\Quest5\Quest\Quest\obj\Debug\Quest.exe
+C:\Documents and Settings\user1\Desktop\HeadFirst Projects\The Quest\Quest5\Quest\Quest\obj\Debug\Quest.pdb
+C:\Documents and Settings\user1\Desktop\HeadFirst Projects\The Quest\Quest5\Quest\Quest\bin\Debug\Quest.exe
+C:\Documents and Settings\user1\Desktop\HeadFirst Projects\The Quest\Quest5\Quest\Quest\bin\Debug\Quest.pdb
+C:\Documents and Settings\user1\Desktop\HeadFirst Projects\The Quest\Quest5\Quest\Quest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user1\Desktop\HeadFirst Projects\The Quest\Quest5\Quest\Quest\obj\Debug\Quest.Form1.resources
+C:\Documents and Settings\user1\Desktop\HeadFirst Projects\The Quest\Quest5\Quest\Quest\obj\Debug\Quest.Properties.Resources.resources
+C:\Documents and Settings\user1\Desktop\HeadFirst Projects\The Quest\Quest5\Quest\Quest\obj\Debug\Quest.csproj.GenerateResource.Cache
+C:\Documents and Settings\user1\My Documents\_Quest\HeadFirst Projects\The Quest\Quest5\Quest\Quest\obj\Debug\Quest.exe
+C:\Documents and Settings\user1\My Documents\_Quest\HeadFirst Projects\The Quest\Quest5\Quest\Quest\obj\Debug\Quest.pdb
+C:\Documents and Settings\user1\My Documents\_Quest\HeadFirst Projects\The Quest\Quest5\Quest\Quest\bin\Debug\Quest.exe
+C:\Documents and Settings\user1\My Documents\_Quest\HeadFirst Projects\The Quest\Quest5\Quest\Quest\bin\Debug\Quest.pdb
+C:\Documents and Settings\user1\My Documents\_Quest\HeadFirst Projects\The Quest\Quest5\Quest\Quest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user1\My Documents\_Quest\HeadFirst Projects\The Quest\Quest5\Quest\Quest\obj\Debug\Quest.Form1.resources
+C:\Documents and Settings\user1\My Documents\_Quest\HeadFirst Projects\The Quest\Quest5\Quest\Quest\obj\Debug\Quest.Properties.Resources.resources
+C:\Documents and Settings\user1\My Documents\_Quest\HeadFirst Projects\The Quest\Quest5\Quest\Quest\obj\Debug\Quest.csproj.GenerateResource.Cache
+C:\Documents and Settings\user1\My Documents\Visual Studio 2008\Projects\Quest\Quest\obj\Debug\Quest.exe
+C:\Documents and Settings\user1\My Documents\Visual Studio 2008\Projects\Quest\Quest\obj\Debug\Quest.pdb
+C:\Documents and Settings\user1\My Documents\Visual Studio 2008\Projects\Quest\Quest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user1\My Documents\Visual Studio 2008\Projects\Quest\Quest\obj\Debug\Quest.Form1.resources
+C:\Documents and Settings\user1\My Documents\Visual Studio 2008\Projects\Quest\Quest\obj\Debug\Quest.Properties.Resources.resources
+C:\Documents and Settings\user1\My Documents\Visual Studio 2008\Projects\Quest\Quest\obj\Debug\Quest.csproj.GenerateResource.Cache
+C:\Documents and Settings\user1\My Documents\Visual Studio 2008\Projects\Quest\Quest\bin\Debug\Quest.exe
+C:\Documents and Settings\user1\My Documents\Visual Studio 2008\Projects\Quest\Quest\bin\Debug\Quest.pdb
+C:\Documents and Settings\user1\My Documents\Visual Studio 2008\Projects\Quest\Quest\bin\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\user1\My Documents\Visual Studio 2008\Projects\Quest\Quest\bin\Debug\Interop.WMPDXMLib.dll
+C:\Documents and Settings\user1\My Documents\Visual Studio 2008\Projects\Quest\Quest\bin\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\user1\Desktop\Mod3\Quest\Quest\obj\Debug\Quest.exe
+C:\Documents and Settings\user1\Desktop\Mod3\Quest\Quest\obj\Debug\Quest.pdb
+C:\Documents and Settings\user1\GitProjects\Quest\Quest\obj\Debug\Quest.exe
+C:\Documents and Settings\user1\GitProjects\Quest\Quest\obj\Debug\Quest.pdb
+C:\Documents and Settings\user1\GitProjects\Quest\Quest\bin\Debug\Quest.exe
+C:\Documents and Settings\user1\GitProjects\Quest\Quest\bin\Debug\Quest.pdb
+C:\Documents and Settings\user1\GitProjects\Quest\Quest\bin\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\user1\GitProjects\Quest\Quest\bin\Debug\Interop.WMPDXMLib.dll
+C:\Documents and Settings\user1\GitProjects\Quest\Quest\bin\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\user1\GitProjects\Quest\Quest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user1\GitProjects\Quest\Quest\obj\Debug\Quest.Form1.resources
+C:\Documents and Settings\user1\GitProjects\Quest\Quest\obj\Debug\Quest.Properties.Resources.resources
+C:\Documents and Settings\user1\GitProjects\Quest\Quest\obj\Debug\Quest.csproj.GenerateResource.Cache
